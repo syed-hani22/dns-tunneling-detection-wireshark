@@ -30,13 +30,6 @@ Key Indicators Found
 
 ---
 
-Sample Screenshot
-
-![dns-queries](screenshots/dns_queries.png)
-![udp-stream](screenshots/udp_stream.png)
-
----
-
  Summary
 
 - Internal IP: `10.10.2.22`
